@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+.cache/
+.kaggle/
+
+*.pth
+*.pt
+*.ckpt
+
+*.png
+*.jpg
+*.jpeg
