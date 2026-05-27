@@ -2,7 +2,9 @@
 
 本仓库是 Kaggle House Prices 房价预测任务的 PyTorch 实现。项目使用房屋结构、面积、质量、位置等表格特征训练回归模型，预测测试集中每套房屋的最终成交价 `SalePrice`，并生成 Kaggle 可提交的 `submission.csv`。
 
-> 说明：仓库名是 `kaggle-hous-price-forecast`，其中 `hous` 少了一个 `e`；README 按当前仓库名和项目内容说明。
+> 说明：socre:14654
+> <img width="1833" height="346" alt="image" src="https://github.com/user-attachments/assets/d2768a91-48b5-437d-8c29-b309d39de8d2" />
+
 
 ## 文件说明
 
